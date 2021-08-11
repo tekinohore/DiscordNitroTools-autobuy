@@ -1,0 +1,16 @@
+{
+  "name": "check_boost_and_inventory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "boost.loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bytenode": "^1.2.3",
+    "fs": "^0.0.1-security",
+    "request": "^2.88.2"
+  }
+}

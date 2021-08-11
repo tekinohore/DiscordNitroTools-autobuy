@@ -1,0 +1,16 @@
+{
+  "name": "get_tokens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "zip_da.loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bytenode": "^1.2.3",
+    "fs": "^0.0.1-security",
+    "node-stream-zip": "^1.13.4"
+  }
+}
